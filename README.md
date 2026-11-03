@@ -1,2 +1,2 @@
 # Delta
-this repository is for leaning git and github
+this repository is for learning git and github.
